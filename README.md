@@ -18,14 +18,21 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,docker," />
 <br>
 
-
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=RenMinakawa&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenMinakawa&theme=vue-dark&layout=compact" />
-</div>
+## 🏃‍♀️ Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RenMinakawa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RenMinakawa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RenMinakawa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RenMinakawa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RenMinakawa&theme=gruvbox&utcOffset=9)
+
+## 🏆 Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
+
+
+
+
 
 
 <!--
